@@ -1,0 +1,9 @@
+Package: com.wyattgahm.mitid
+Name: mitid
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A Bypass for MitID
+Maintainer: Wyatt Gahm
+Author: Wyatt Gahm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
